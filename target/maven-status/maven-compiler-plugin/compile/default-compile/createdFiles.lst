@@ -1,0 +1,4 @@
+com/abjadiyat/entity/PurchaseRecords.class
+BigQueryData.class
+com/abjadiyat/entity/PurchaseRecords$PurchaseRecordsBuilder.class
+com/abjadiyat/util/HibernateUtil.class
